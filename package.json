@@ -10,7 +10,6 @@
   "author": "Y.Takeuchi",
   "license": "ISC",
   "dependencies": {
-    "@auth0/auth0-spa-js": "^1.16.1",
     "express": "^4.17.1"
   },
   "devDependencies": {
